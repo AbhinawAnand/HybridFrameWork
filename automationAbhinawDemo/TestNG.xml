@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="automationAbhinawDemo">
+	<listeners>
+		<listener
+			class-name="com.automationAbhinawDemo.utilities.Reporting" />
+		<listener
+			class-name="com.automationAbhinawDemo.utilities.PDFReporting" />
+
+	</listeners>
+<!-- 	<parameter name="browser" value="chrome" />
+ -->	
+ <test name="abhinawAutomationDemo">
+		<groups>
+			<run>
+				<include name="checkinTests" />
+			</run>
+
+		</groups>
+		<classes>
+			<class name="com.automationAbhinawDemo.test.Dummy" />
+
+		</classes>
+
+	</test>
+
+</suite>

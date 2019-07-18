@@ -1,0 +1,301 @@
+2019-06-09 03:06:20,587 [main] INFO ecomm - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-09 03:08:58,808 [main] INFO ecomm - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-09 03:10:54,655 [main] INFO ecomm - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-09 03:12:35,643 [main] INFO ecomm - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-09 03:14:32,836 [main] INFO ecomm - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-09 03:15:20,059 [main] INFO ecomm - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-09 03:31:04,131 [main] INFO ecomm - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-09 03:34:45,528 [main] INFO ecomm - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-09 03:37:25,884 [main] INFO ecomm - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-09 03:37:36,113 [main] INFO ecomm - Written UserName Successfully:: test
+2019-06-09 03:37:36,467 [main] INFO ecomm - Written Password Successfully
+2019-06-09 03:37:36,482 [main] INFO ecomm - clicking on login Btn
+2019-06-09 03:47:05,046 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-09 03:47:15,264 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test
+2019-06-09 03:47:15,492 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-09 03:47:15,504 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-09 03:58:01,183 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-09 04:00:20,012 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-09 04:01:17,106 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-09 04:01:27,395 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test
+2019-06-09 04:01:27,615 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-09 04:01:27,627 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-09 05:17:01,308 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: null
+2019-06-09 05:17:12,962 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-09 05:17:13,226 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-09 05:17:13,242 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-09 05:22:28,558 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: null
+2019-06-09 05:22:40,336 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-09 05:22:40,643 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-09 05:22:40,656 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-09 05:29:56,405 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: null
+2019-06-09 05:30:24,377 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-09 05:30:43,610 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-09 05:30:47,531 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-09 18:49:36,185 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: null
+2019-06-09 18:49:47,734 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-09 18:49:47,962 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-09 18:49:47,974 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-15 20:09:55,744 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: null
+2019-06-15 20:10:07,456 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-15 20:10:07,695 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-15 20:10:07,711 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-15 20:17:42,047 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: null
+2019-06-15 20:17:53,588 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-15 20:17:53,829 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-15 20:17:53,841 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-15 22:43:40,888 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-15 22:43:52,521 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-15 22:43:52,790 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-15 22:43:52,804 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-15 22:48:37,714 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-15 22:48:49,449 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-15 22:48:49,679 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-15 22:48:49,693 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-15 22:52:04,687 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-15 22:52:16,258 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-15 22:52:16,504 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-15 22:52:16,523 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-15 22:53:09,006 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-15 22:53:20,826 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-15 22:53:21,058 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-15 22:53:21,069 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-15 22:55:15,991 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-15 22:55:27,562 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-15 22:55:27,862 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-15 22:55:27,874 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-15 23:22:43,230 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-15 23:22:55,075 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-15 23:22:55,304 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-15 23:22:55,315 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-15 23:27:41,006 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-15 23:27:52,853 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-15 23:27:53,081 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-15 23:27:53,098 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-15 23:31:27,646 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-15 23:31:39,426 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-15 23:31:39,655 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-15 23:31:39,668 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-15 23:33:03,248 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-15 23:33:14,862 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-15 23:33:15,081 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-15 23:33:15,092 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-15 23:35:02,094 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-15 23:35:13,734 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-15 23:35:14,078 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-15 23:35:14,097 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-15 23:38:46,186 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-15 23:38:58,105 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-15 23:38:58,525 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-15 23:38:58,547 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-15 23:38:58,571 [main] INFO abhinaw-automation-demo - Login - My Store
+2019-06-15 23:41:02,130 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-15 23:41:13,732 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-15 23:41:14,073 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-15 23:41:14,093 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-15 23:41:14,109 [main] INFO abhinaw-automation-demo - Login - My Store
+2019-06-15 23:41:51,122 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-15 23:42:02,740 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-15 23:42:02,996 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-15 23:42:03,016 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-15 23:42:03,028 [main] INFO abhinaw-automation-demo - Login - My Store
+2019-06-15 23:42:03,686 [main] INFO abhinaw-automation-demo - Screenshot taken
+2019-06-15 23:50:13,768 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-15 23:50:26,010 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-15 23:50:26,379 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-15 23:50:26,402 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-15 23:50:26,432 [main] INFO abhinaw-automation-demo - Login - My Store
+2019-06-15 23:50:27,104 [main] INFO abhinaw-automation-demo - Screenshot taken
+2019-06-16 00:05:57,237 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-16 00:06:09,008 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-16 00:06:09,248 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-16 00:06:09,262 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-16 00:06:09,270 [main] INFO abhinaw-automation-demo - Login - My Store
+2019-06-16 00:06:09,760 [main] INFO abhinaw-automation-demo - Screenshot taken
+2019-06-16 00:08:09,774 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-16 00:08:21,428 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-16 00:08:21,658 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-16 00:08:21,672 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-16 00:08:21,682 [main] INFO abhinaw-automation-demo - Login - My Store
+2019-06-16 00:08:22,196 [main] INFO abhinaw-automation-demo - Screenshot taken
+2019-06-16 00:10:46,369 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-16 00:10:58,024 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-16 00:10:58,269 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-16 00:10:58,289 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-16 00:10:58,307 [main] INFO abhinaw-automation-demo - Login - My Store
+2019-06-16 00:10:58,863 [main] INFO abhinaw-automation-demo - Screenshot taken
+2019-06-16 00:16:07,999 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-16 00:16:19,568 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-16 00:16:19,826 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-16 00:16:19,840 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-16 00:16:19,850 [main] INFO abhinaw-automation-demo - Login - My Store
+2019-06-16 00:16:20,462 [main] INFO abhinaw-automation-demo - Screenshot taken
+2019-06-16 00:30:57,998 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-16 00:31:09,593 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-16 00:31:09,829 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-16 00:31:09,842 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-16 00:31:09,851 [main] INFO abhinaw-automation-demo - Login - My Store
+2019-06-16 00:31:10,400 [main] INFO abhinaw-automation-demo - Screenshot taken
+2019-06-16 00:38:11,061 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-16 00:38:22,961 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-16 00:38:23,233 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-16 00:38:23,250 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-16 00:38:23,267 [main] INFO abhinaw-automation-demo - Login - My Store
+2019-06-16 00:38:23,985 [main] INFO abhinaw-automation-demo - Screenshot taken
+2019-06-16 01:02:23,267 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-16 01:02:35,165 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-16 01:02:35,576 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-16 01:02:35,594 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-16 01:02:35,613 [main] INFO abhinaw-automation-demo - Login - My Store
+2019-06-16 01:02:36,302 [main] INFO abhinaw-automation-demo - Screenshot taken
+2019-06-17 07:31:32,415 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-17 07:44:15,826 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-17 07:44:27,450 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-17 07:44:27,941 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-17 07:44:27,998 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-17 07:44:29,163 [main] INFO abhinaw-automation-demo - Login - My Store
+2019-06-17 07:44:29,857 [main] INFO abhinaw-automation-demo - Screenshot taken
+2019-06-17 23:39:20,014 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-17 23:39:31,542 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-17 23:39:31,853 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-17 23:39:31,874 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-17 23:39:31,903 [main] INFO abhinaw-automation-demo - Login - My Store
+2019-06-17 23:39:32,659 [main] INFO abhinaw-automation-demo - Screenshot taken fot failure in testcase login
+2019-06-18 01:05:43,868 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-18 01:05:55,884 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-18 01:05:56,161 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-18 01:05:56,176 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-18 01:05:56,215 [main] INFO abhinaw-automation-demo - Login - My Store
+2019-06-18 01:05:57,224 [main] INFO abhinaw-automation-demo - Screenshot taken fot failure in testcase login
+2019-06-20 04:02:20,124 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-20 04:02:32,141 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-20 04:02:32,411 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-20 04:02:32,423 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-20 04:02:32,439 [main] INFO abhinaw-automation-demo - Login - My Store
+2019-06-20 04:02:33,318 [main] INFO abhinaw-automation-demo - Screenshot taken fot failure in testcase login
+2019-06-22 21:19:32,010 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-22 21:19:45,083 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-22 21:19:45,740 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-22 21:19:45,767 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-22 21:19:45,811 [main] INFO abhinaw-automation-demo - Login - My Store
+2019-06-22 21:19:46,702 [main] INFO abhinaw-automation-demo - Screenshot taken fot failure in testcase login
+2019-06-22 23:02:26,365 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-22 23:02:37,994 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-22 23:02:38,265 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-22 23:02:38,280 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-22 23:02:38,292 [main] INFO abhinaw-automation-demo - Login - My Store
+2019-06-22 23:02:39,101 [main] INFO abhinaw-automation-demo - Screenshot taken fot failure in testcase login
+2019-06-22 23:05:53,510 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-22 23:06:05,262 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-22 23:06:05,480 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-22 23:06:05,494 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-22 23:06:05,505 [main] INFO abhinaw-automation-demo - Login - My Store
+2019-06-22 23:06:06,146 [main] INFO abhinaw-automation-demo - Screenshot taken fot failure in testcase login
+2019-06-22 23:20:28,122 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-22 23:20:39,860 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-22 23:20:40,223 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-22 23:20:40,238 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-22 23:20:40,247 [main] INFO abhinaw-automation-demo - Login - My Store
+2019-06-22 23:20:40,974 [main] INFO abhinaw-automation-demo - Screenshot taken fot failure in testcase login
+2019-06-22 23:24:36,040 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-22 23:24:47,763 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-22 23:24:47,984 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-22 23:24:47,996 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-22 23:24:48,008 [main] INFO abhinaw-automation-demo - Login - My Store
+2019-06-22 23:24:48,597 [main] INFO abhinaw-automation-demo - Screenshot taken fot failure in testcase login
+2019-06-22 23:41:05,311 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-22 23:41:17,263 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-22 23:41:17,559 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-22 23:41:17,577 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-22 23:41:17,590 [main] INFO abhinaw-automation-demo - Login - My Store
+2019-06-22 23:41:18,285 [main] INFO abhinaw-automation-demo - Screenshot taken fot failure in testcase login
+2019-06-22 23:45:01,386 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-22 23:45:13,201 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-22 23:45:13,471 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-22 23:45:13,489 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-22 23:45:13,504 [main] INFO abhinaw-automation-demo - Login - My Store
+2019-06-22 23:45:14,005 [main] INFO abhinaw-automation-demo - Screenshot taken fot failure in testcase login
+2019-06-22 23:54:39,180 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-22 23:54:51,043 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-22 23:54:51,479 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-22 23:54:51,494 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-22 23:54:51,508 [main] INFO abhinaw-automation-demo - Login - My Store
+2019-06-22 23:54:52,182 [main] INFO abhinaw-automation-demo - Screenshot taken fot failure in testcase login
+2019-06-23 00:01:32,651 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-23 00:01:44,349 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-23 00:01:44,676 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-23 00:01:44,706 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-23 00:01:44,716 [main] INFO abhinaw-automation-demo - Login - My Store
+2019-06-23 00:01:45,299 [main] INFO abhinaw-automation-demo - Screenshot taken fot failure in testcase login
+2019-06-23 00:08:52,542 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-23 00:09:04,278 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-23 00:09:04,568 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-23 00:09:04,584 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-23 00:09:04,606 [main] INFO abhinaw-automation-demo - Login - My Store
+2019-06-23 00:09:05,219 [main] INFO abhinaw-automation-demo - Screenshot taken fot failure in testcase login
+2019-06-23 00:11:38,164 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-23 00:11:50,266 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-23 00:11:50,600 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-23 00:11:50,626 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-23 00:11:50,663 [main] INFO abhinaw-automation-demo - Login - My Store
+2019-06-23 00:11:51,532 [main] INFO abhinaw-automation-demo - Screenshot taken fot failure in testcase login
+2019-06-23 00:24:59,965 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-23 00:25:11,689 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-23 00:25:11,959 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-23 00:25:11,978 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-23 00:25:11,998 [main] INFO abhinaw-automation-demo - Login - My Store
+2019-06-23 00:25:12,623 [main] INFO abhinaw-automation-demo - Screenshot taken fot failure in testcase login
+2019-06-23 00:31:44,326 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-23 00:31:56,053 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-23 00:31:56,493 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-23 00:31:56,510 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-23 00:31:56,523 [main] INFO abhinaw-automation-demo - Login - My Store
+2019-06-23 00:31:57,207 [main] INFO abhinaw-automation-demo - Screenshot taken fot failure in testcase login
+2019-06-23 00:37:37,154 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-23 00:37:48,835 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-23 00:37:49,082 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-23 00:37:49,097 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-23 00:37:49,106 [main] INFO abhinaw-automation-demo - Login - My Store
+2019-06-23 00:37:49,885 [main] INFO abhinaw-automation-demo - Screenshot taken fot failure in testcase login
+2019-06-23 00:45:34,138 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-23 00:45:45,841 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-23 00:45:46,087 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-23 00:45:46,102 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-23 00:45:46,115 [main] INFO abhinaw-automation-demo - Login - My Store
+2019-06-23 00:45:46,880 [main] INFO abhinaw-automation-demo - Screenshot taken fot failure in testcase login
+2019-06-23 00:56:23,257 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-23 00:56:35,188 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-23 00:56:35,437 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-23 00:56:35,455 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-23 00:56:35,468 [main] INFO abhinaw-automation-demo - Login - My Store
+2019-06-23 00:56:36,104 [main] INFO abhinaw-automation-demo - Screenshot taken fot failure in testcase login
+2019-06-28 03:19:13,136 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-29 00:44:40,830 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-29 00:51:58,965 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-29 00:53:43,241 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-29 02:08:52,639 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-29 02:13:45,595 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-29 02:16:29,444 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-29 02:22:30,665 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-29 02:22:32,732 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-29 02:41:12,735 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-29 02:41:14,520 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-29 02:41:14,833 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-29 02:57:39,029 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-29 02:57:40,703 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-29 02:57:40,924 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-29 03:28:55,385 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-29 03:28:56,925 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-29 03:28:57,104 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-29 03:58:37,993 [main] INFO abhinaw-automation-demo - Launched Url Successfully:: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2019-06-29 03:58:39,568 [main] INFO abhinaw-automation-demo - Written UserName Successfully:: test@test.com
+2019-06-29 03:58:39,759 [main] INFO abhinaw-automation-demo - Written Password Successfully
+2019-06-29 03:58:41,428 [main] INFO abhinaw-automation-demo - clicking on login Btn
+2019-06-29 03:58:41,457 [main] INFO abhinaw-automation-demo - Login - My Store
+2019-06-29 03:58:42,106 [main] INFO abhinaw-automation-demo - Screenshot taken fot failure in testcase login
+2019-07-03 06:36:22,841 [main] INFO abhinaw-automation-demo - This is before suite
+2019-07-03 06:36:22,851 [main] INFO abhinaw-automation-demo - This is before test
+2019-07-03 06:46:45,409 [main] INFO abhinaw-automation-demo - This is before suite
+2019-07-03 06:46:45,417 [main] INFO abhinaw-automation-demo - This is before test
+2019-07-03 06:46:45,450 [main] INFO abhinaw-automation-demo - This is after test
+2019-07-03 06:46:45,492 [main] INFO abhinaw-automation-demo - This is after suite

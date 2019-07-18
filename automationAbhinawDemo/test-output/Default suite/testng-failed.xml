@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.automationAbhinawDemo.test.Dummy">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="as"/>
+          <include name="bt"/>
+          <include name="at"/>
+          <include name="te"/>
+          <include name="bs"/>
+        </methods>
+      </class> <!-- com.automationAbhinawDemo.test.Dummy -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

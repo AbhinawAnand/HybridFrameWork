@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="automationAbhinawDemo" duration-ms="624" started-at="2019-07-03T01:17:16Z" finished-at="2019-07-03T01:17:17Z">
+    <groups>
+      <group name="checkinTests">
+        <method signature="Dummy.te()[pri:0, instance:com.automationAbhinawDemo.test.Dummy@6e1567f1]" name="te" class="com.automationAbhinawDemo.test.Dummy"/>
+      </group> <!-- checkinTests -->
+    </groups>
+    <test name="abhinawAutomationDemo" duration-ms="624" started-at="2019-07-03T01:17:16Z" finished-at="2019-07-03T01:17:17Z">
+      <class name="com.automationAbhinawDemo.test.Dummy">
+        <test-method status="PASS" signature="te()[pri:0, instance:com.automationAbhinawDemo.test.Dummy@6e1567f1]" name="te" duration-ms="14" started-at="2019-07-03T01:17:17Z" finished-at="2019-07-03T01:17:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- te -->
+      </class> <!-- com.automationAbhinawDemo.test.Dummy -->
+    </test> <!-- abhinawAutomationDemo -->
+  </suite> <!-- automationAbhinawDemo -->
+</testng-results>

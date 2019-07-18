@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [automationAbhinawDemo]">
+  <parameter name="browser" value="chrome"/>
+  <listeners>
+    <listener class-name="com.automationAbhinawDemo.utilities.Reporting"/>
+    <listener class-name="com.automationAbhinawDemo.utilities.PDFReporting"/>
+  </listeners>
+  <test thread-count="5" verbose="0" name="abhinawAutomationDemo(failed)">
+    <groups>
+      <run>
+        <include name="checkinTests"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.automationAbhinawDemo.test.TC_001_SuccessfulLogin">
+        <methods>
+          <include name="login"/>
+        </methods>
+      </class> <!-- com.automationAbhinawDemo.test.TC_001_SuccessfulLogin -->
+    </classes>
+  </test> <!-- abhinawAutomationDemo(failed) -->
+</suite> <!-- Failed suite [automationAbhinawDemo] -->

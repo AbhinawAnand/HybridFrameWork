@@ -1,0 +1,4 @@
+# Created at 2019-06-23T00:01:15.235
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Abhinaw\HybridFrameWork\automationAbhinawDemo\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
