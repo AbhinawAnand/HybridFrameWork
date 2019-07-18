@@ -45,7 +45,7 @@ public class SignInPage {
 	@FindBy(xpath="//button[@id='SubmitCreate']")
 	public WebElement SignUpLink;
 	
-	String col1 = ".//dhkj";
+	
 	
 	/*@FindBy(xpath="")
 	public WebElement col1;
@@ -56,29 +56,12 @@ public class SignInPage {
 	@FindBy(xpath="")
 	public WebElement col3;*/
 	
-	public void setUserName(String uname) throws InterruptedException {
-		FunctionUtils.highlightElement(userName);
+	public void setUserName(String uname) throws Exception {
+		//FunctionUtils.highlightElement(userName);
 		//ActionUtils.setText(userName, uname, true);
 		userName.sendKeys(uname);
-		
-		List<WebElement> li =driver.findElements(By.xpath(""));
-		
-		
-		String rownum="1";
-		int rowCount= li.size();
-		WebElement ele = li.get(0);
-		String xp =getLocatorFromWebElement(ele);
-		xp = xp+"["+rownum+"]"+col1;
-		WebElement colm1 = driver.findElement(By.xpath(xp));
-		colm1.getText().equalsIgnoreCase("");
-	
-		
-
 	}
-	private String getLocatorFromWebElement(WebElement element) {
 
-	    return element.toString().split("->")[1].replaceFirst("(?s)(.*)\\]", "$1" + "");
-	}
 	
 	public void setPassWord(String pwd) throws IOException {
 		//ActionUtils.setText(password, pwd, true);

@@ -8,17 +8,17 @@
 			class-name="com.automationAbhinawDemo.utilities.PDFReporting" />
 
 	</listeners>
-<!-- 	<parameter name="browser" value="chrome" />
- -->	
+	<parameter name="browser" value="chrome" />
+	
  <test name="abhinawAutomationDemo">
-		<groups>
+<!-- 		<groups>
 			<run>
 				<include name="checkinTests" />
 			</run>
 
-		</groups>
+		</groups> -->
 		<classes>
-			<class name="com.automationAbhinawDemo.test.Dummy" />
+			<class name="com.automationAbhinawDemo.test.TC_001_SuccessfulLogin" />
 
 		</classes>
 

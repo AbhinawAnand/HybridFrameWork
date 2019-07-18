@@ -2,26 +2,26 @@
 <testng-results skipped="0" failed="1" ignored="1" total="3" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="automationAbhinawDemo" duration-ms="1288" started-at="2019-07-02T21:38:13Z" finished-at="2019-07-02T21:38:14Z">
+  <suite name="automationAbhinawDemo" duration-ms="1166" started-at="2019-07-18T10:33:09Z" finished-at="2019-07-18T10:33:11Z">
     <groups>
       <group name="checkinTests">
-        <method signature="TC_001_SuccessfulLogin.PassTest()[pri:0, instance:com.automationAbhinawDemo.test.TC_001_SuccessfulLogin@7f9a81e8]" name="PassTest" class="com.automationAbhinawDemo.test.TC_001_SuccessfulLogin"/>
-        <method signature="TC_001_SuccessfulLogin.login()[pri:0, instance:com.automationAbhinawDemo.test.TC_001_SuccessfulLogin@7f9a81e8]" name="login" class="com.automationAbhinawDemo.test.TC_001_SuccessfulLogin"/>
+        <method signature="TC_001_SuccessfulLogin.PassTest()[pri:0, instance:com.automationAbhinawDemo.test.TC_001_SuccessfulLogin@36d4b5c]" name="PassTest" class="com.automationAbhinawDemo.test.TC_001_SuccessfulLogin"/>
+        <method signature="TC_001_SuccessfulLogin.login()[pri:0, instance:com.automationAbhinawDemo.test.TC_001_SuccessfulLogin@36d4b5c]" name="login" class="com.automationAbhinawDemo.test.TC_001_SuccessfulLogin"/>
       </group> <!-- checkinTests -->
     </groups>
-    <test name="abhinawAutomationDemo" duration-ms="1288" started-at="2019-07-02T21:38:13Z" finished-at="2019-07-02T21:38:14Z">
+    <test name="abhinawAutomationDemo" duration-ms="1166" started-at="2019-07-18T10:33:09Z" finished-at="2019-07-18T10:33:11Z">
       <class name="com.automationAbhinawDemo.test.TC_001_SuccessfulLogin">
-        <test-method status="PASS" signature="PassTest()[pri:0, instance:com.automationAbhinawDemo.test.TC_001_SuccessfulLogin@7f9a81e8]" name="PassTest" duration-ms="14" started-at="2019-07-02T21:38:13Z" finished-at="2019-07-02T21:38:13Z">
+        <test-method status="PASS" signature="PassTest()[pri:0, instance:com.automationAbhinawDemo.test.TC_001_SuccessfulLogin@36d4b5c]" name="PassTest" duration-ms="18" started-at="2019-07-18T10:33:10Z" finished-at="2019-07-18T10:33:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PassTest -->
-        <test-method status="FAIL" signature="login()[pri:0, instance:com.automationAbhinawDemo.test.TC_001_SuccessfulLogin@7f9a81e8]" name="login" duration-ms="86" started-at="2019-07-02T21:38:13Z" finished-at="2019-07-02T21:38:13Z">
+        <test-method status="FAIL" signature="login()[pri:0, instance:com.automationAbhinawDemo.test.TC_001_SuccessfulLogin@36d4b5c]" name="login" duration-ms="56" started-at="2019-07-18T10:33:10Z" finished-at="2019-07-18T10:33:10Z">
           <exception class="java.lang.NullPointerException">
             <full-stacktrace>
               <![CDATA[java.lang.NullPointerException
 at com.automationAbhinawDemo.utilities.FunctionUtils.highlightElement(FunctionUtils.java:44)
-at com.automationAbhinawDemo.pageobjects.SignInPage.setUserName(SignInPage.java:48)
-at com.automationAbhinawDemo.test.TC_001_SuccessfulLogin.login(TC_001_SuccessfulLogin.java:19)
+at com.automationAbhinawDemo.pageobjects.SignInPage.setUserName(SignInPage.java:60)
+at com.automationAbhinawDemo.test.TC_001_SuccessfulLogin.login(TC_001_SuccessfulLogin.java:17)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)

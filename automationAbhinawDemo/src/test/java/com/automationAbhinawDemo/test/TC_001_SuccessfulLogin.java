@@ -11,9 +11,11 @@ import com.automationAbhinawDemo.utilities.FunctionUtils;
 
 public class TC_001_SuccessfulLogin extends TestBase{
 	
-	@Test(groups= {"checkinTests"})
+	
+	@Test()
 	public void login() throws Exception {
 		SignInPage sip = new SignInPage(driver);
+		System.out.println(sip);
 		sip.setUserName(userName);
 		testLogger.info("Written UserName Successfully:: "+userName);
 		sip.setPassWord(password);
